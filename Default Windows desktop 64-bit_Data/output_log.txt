@@ -1,0 +1,80 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3992 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Ahmed\Desktop\Car Simulator\Default Windows desktop 64-bit_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Ahmed\Desktop\Car Simulator\Default Windows desktop 64-bit_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Ahmed\Desktop\Car Simulator\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Ahmed\Desktop\Car Simulator\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Ahmed\Desktop\Car Simulator\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Ahmed\Desktop\Car Simulator\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Ahmed\Desktop\Car Simulator\Default Windows desktop 64-bit_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Ahmed\Desktop\Car Simulator\Default Windows desktop 64-bit_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Ahmed\Desktop\Car Simulator\Default Windows desktop 64-bit_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Ahmed\Desktop\Car Simulator\Default Windows desktop 64-bit_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Ahmed\Desktop\Car Simulator\Default Windows desktop 64-bit_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Ahmed\Desktop\Car Simulator\Default Windows desktop 64-bit_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Ahmed\Desktop\Car Simulator\Default Windows desktop 64-bit_Data\Managed\UnityEngine.CloudBuild.dll (this message is harmless)
+Loading C:\Users\Ahmed\Desktop\Car Simulator\Default Windows desktop 64-bit_Data\Managed\UnityEngine.CloudBuild.dll into Unity Child Domain
+Platform assembly: C:\Users\Ahmed\Desktop\Car Simulator\Default Windows desktop 64-bit_Data\Managed\UniFileBrowser.dll (this message is harmless)
+Loading C:\Users\Ahmed\Desktop\Car Simulator\Default Windows desktop 64-bit_Data\Managed\UniFileBrowser.dll into Unity Child Domain
+- Completed reload, in  0.052 seconds
+Platform assembly: C:\Users\Ahmed\Desktop\Car Simulator\Default Windows desktop 64-bit_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Ahmed\Desktop\Car Simulator\Default Windows desktop 64-bit_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on ReturnToMainMenu
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+Platform assembly: C:\Users\Ahmed\Desktop\Car Simulator\Default Windows desktop 64-bit_Data\Managed\Mono.Security.dll (this message is harmless)
+Platform assembly: C:\Users\Ahmed\Desktop\Car Simulator\Default Windows desktop 64-bit_Data\Managed\Boo.Lang.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3286x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.697599 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2390 -> priority: 1 
+  Thread -> id: 18bc -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.293598 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 419.
+Total: 0.149119 ms (FindLiveObjects: 0.025054 ms CreateObjectMapping: 0.008150 ms MarkObjects: 0.106858 ms  DeleteObjects: 0.008452 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.856139 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1570.
+Total: 0.607343 ms (FindLiveObjects: 0.115310 ms CreateObjectMapping: 0.023243 ms MarkObjects: 0.208585 ms  DeleteObjects: 0.259298 ms)
+
+Platform assembly: C:\Users\Ahmed\Desktop\Car Simulator\Default Windows desktop 64-bit_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Starting to record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.672369 ms
+
+Unloading 180 unused Assets to reduce memory usage. Loaded Objects now: 473.
+Total: 1.770109 ms (FindLiveObjects: 0.032600 ms CreateObjectMapping: 0.030789 ms MarkObjects: 0.258090 ms  DeleteObjects: 1.448326 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.550291 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1580.
+Total: 0.691562 ms (FindLiveObjects: 0.113801 ms CreateObjectMapping: 0.025356 ms MarkObjects: 0.285559 ms  DeleteObjects: 0.266542 ms)
+
+Starting to record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Stopping record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
